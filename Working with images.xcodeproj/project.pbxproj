@@ -14,6 +14,8 @@
 		39A93FFD2292F0340037A9E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39A93FFB2292F0340037A9E8 /* LaunchScreen.storyboard */; };
 		39A940082292F0340037A9E8 /* Working_with_imagesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A940072292F0340037A9E8 /* Working_with_imagesTests.swift */; };
 		39A940132292F0350037A9E8 /* Working_with_imagesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A940122292F0350037A9E8 /* Working_with_imagesUITests.swift */; };
+		39A940222292F6C80037A9E8 /* XR.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 39A940202292F6C80037A9E8 /* XR.jpg */; };
+		39A940232292F6C80037A9E8 /* XS.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 39A940212292F6C80037A9E8 /* XS.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		39A9400E2292F0350037A9E8 /* Working with imagesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Working with imagesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		39A940122292F0350037A9E8 /* Working_with_imagesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Working_with_imagesUITests.swift; sourceTree = "<group>"; };
 		39A940142292F0350037A9E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39A940202292F6C80037A9E8 /* XR.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = XR.jpg; sourceTree = "<group>"; };
+		39A940212292F6C80037A9E8 /* XS.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = XS.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				39A93FF22292F0340037A9E8 /* AppDelegate.swift */,
 				39A93FF42292F0340037A9E8 /* ViewController.swift */,
 				39A93FF62292F0340037A9E8 /* Main.storyboard */,
+				39A940202292F6C80037A9E8 /* XR.jpg */,
+				39A940212292F6C80037A9E8 /* XS.jpeg */,
 				39A93FF92292F0340037A9E8 /* Assets.xcassets */,
 				39A93FFB2292F0340037A9E8 /* LaunchScreen.storyboard */,
 				39A93FFE2292F0340037A9E8 /* Info.plist */,
@@ -229,9 +235,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				39A940232292F6C80037A9E8 /* XS.jpeg in Resources */,
 				39A93FFD2292F0340037A9E8 /* LaunchScreen.storyboard in Resources */,
 				39A93FFA2292F0340037A9E8 /* Assets.xcassets in Resources */,
 				39A93FF82292F0340037A9E8 /* Main.storyboard in Resources */,
+				39A940222292F6C80037A9E8 /* XR.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
